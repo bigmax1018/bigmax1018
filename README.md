@@ -56,6 +56,4 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 ## Connect with Me
 
 - GitHub: [[BigMax GitHub Profile](https://github.com/bigmax1018)]
-
-Feel free to reach out if you have any questions or if you'd like to collaborate on exciting projects!
 ![](./profile-3d-contrib/profile-night-green.svg) 
