@@ -26,6 +26,8 @@ I'm a passionate software developer with a diverse skill set in both web and mob
   - Unity
   - Postman, Insomnia
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ## Work Experience
 
 ### Software Engineer | [Adnet Solutions Limited] (2021.10 - 2022.09)
@@ -55,5 +57,4 @@ I'm a passionate software developer with a diverse skill set in both web and mob
     
 ## Connect with Me
 
-- GitHub: [[BigMax GitHub Profile](https://github.com/bigmax1018)]
-![](./profile-3d-contrib/profile-night-green.svg) 
+- GitHub: [[BigMax GitHub Profile](https://github.com/bigmax1018)] 
