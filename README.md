@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a passionate software developer with a diverse skill set in both web and mobile technologies. My goal is to create innovative and user-friendly applications that make a positive impact.
-
+![](./profile-3d-contrib/profile-night-green.svg)
 ## Skills
 
 - **Web Development:**
@@ -25,9 +25,6 @@ I'm a passionate software developer with a diverse skill set in both web and mob
   - VSCode, Android Studio
   - Unity
   - Postman, Insomnia
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
 ## Work Experience
 
 ### Software Engineer | [Adnet Solutions Limited] (2021.10 - 2022.09)
