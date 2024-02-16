@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a passionate software developer with a diverse skill set in both web and mobile technologies. My goal is to create innovative and user-friendly applications that make a positive impact.
-![](./profile-3d-contrib/profile-night-reinbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## Skills
 
 - **Web Development:**
