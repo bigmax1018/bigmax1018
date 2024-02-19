@@ -48,7 +48,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 ## Certifications
 
 - **Laravel Developer Certification**
-  - [Certification Authority], [Year Earned]
+  - [[Certification Authority]](https://app.flexiple.com/), [Year Earned]
 - **React Developer Certification**
   - [Certification Authority], [Year Earned]
     
