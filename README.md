@@ -8,7 +8,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 
 - **Web Development:**
   - Frontend: HTML, CSS, JavaScript, React, Vue.js, TypeScript, Laravel-Vue.js, Angular.js
-  - Backend: PHP, Laravel, Node.js, Express.js, MongoDB, MySQL, NoSQL
+  - Backend: Go, PHP, Laravel, Node.js, Express.js, MongoDB, MySQL, NoSQL
   - Responsive Design, UI/UX Development
   - Blockchain, Ethereum, Solidity, Smart Contact
   - Unity 2D and 3D game development
@@ -43,7 +43,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 ## Education
 
 - **Bachelor of Science in Computer Science**
-  - [LaSalle College Vancouver], [2018] - [2021]
+  - [Instituto Politécnico Nacional], [2017] - [2020]
 
 ## Certifications
 
