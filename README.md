@@ -43,7 +43,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
 ## Education
 
 - **Bachelor of Science in Computer Science**
-  - [Instituto Politécnico Nacional], [2017] - [2020]
+  - [LaSalle College Vancouver], [2018] - [2021]
 
 ## Certifications
 
