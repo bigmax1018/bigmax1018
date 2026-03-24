@@ -22,7 +22,7 @@ I'm a passionate software developer with a diverse skill set in both web and mob
   - Git, GitHub
 
 - **Tools:**
-  - VSCode, Android Studio
+  - RustRover, VSCode, Android Studio
   - Unity, Unreal Engine
   - Postman, Insomnia
 ## Work Experience
